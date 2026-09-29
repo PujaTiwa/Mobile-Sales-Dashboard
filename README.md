@@ -49,4 +49,4 @@ Mobile sales transaction data containing:
 
 ## 📸 Dashboard Preview
 - Show what the dashboard looks like. Example:
-![Mobile Sales Dashboard](Images/dashboard.png)
+![Mobile Sales Dashboard]([Images/dashboard.png](https://github.com/PujaTiwa/Mobile-Sales-Dashboard/blob/main/Mobile_Sales_Dashboard.png))
